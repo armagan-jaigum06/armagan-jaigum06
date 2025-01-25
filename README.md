@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armagan-jaigum06&label=Profile%20views&color=0e75b6&style=flat" alt="armagan-jaigum06" /> </p>
 
-- 🔭 I’m currently working on **Hotel Listing Website**
+- 🔭 I’m currently working on a project to build a **"Hotel Listing Website"**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **"Web Development"**
 
 - 📫 How to reach me **jaigum.work@gmail.com**
 
